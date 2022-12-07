@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# No subir
+/estudio
+.estudio
+estudio
+/Untitled.ipynb
+.Untitled.ipynb
+Untitled.ipynb
+/Untitled
+.Untitled
+Untitled
+
